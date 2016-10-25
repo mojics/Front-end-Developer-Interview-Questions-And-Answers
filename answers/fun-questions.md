@@ -31,6 +31,9 @@ a input changer, etc. I also write some JavaScript packages as well.
 
 What is Internet Explorer? Nevermind. I like the color of its logo.
 
+@mojics
+My favourite feature is IE can download Google Chrome.
+
 #### How do you like your coffee?
 
 I'm a fan of coffee. I usually drink cups of coffee a day, especially a working
