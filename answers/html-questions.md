@@ -18,6 +18,7 @@ We can enforce browsers to use standards mode with a `<!DOCTYPE html>` tag.
 #### What's the difference between HTML and XHTML?
 
 @mojics
+
 XHTML is the strict way of writing HTML. Where for each open HTML tag there should be a closing tag.
 
 #### Are there any problems with serving pages as `application/xhtml+xml`?
